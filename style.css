@@ -11,19 +11,9 @@ body {
   font-family: "Segoe UI";
 }
 
-
-
-h3 {
-  font-weight: bold;
-  font-size: 30px;
-  text-align: center;
-  color: #2e3f58;
-}
-
 iframe {
 margin-top: 20px;
 margin-bottom: 30px;
-border-color: #FF4A5B85;
-border-radius: 12px;
+border-color: #212D40;
 filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=.2);
 } 
